@@ -9,7 +9,7 @@ ETAPA 1:
 
 \MATEMÁTICA DISCRETA:
 
-- [Matemática Concreta: Fundamentos Para Ciência Da Computação 2 Edição 1995] > **sem link, não encontrado.**
+- Matemática Concreta: Fundamentos Para Ciência Da Computação 2 Edição 1995 > **sem link, não encontrado.**
 - [Fundamentos Matemáticos para a Ciência da Computação: Matemática Discreta e suas aplicações 2 Edição](https://download843.mediafire.com/ba9dukgxocwg-5difQ9EU_JDfjIz-KV--DNtl7WFDDgStpxZE8J_FQmX67OkF8H-4sXfwmo3Vt4aCaP1AkXkz1QnPGuCCJfc-i-KnypXi7Tn_IrSUUg7281rqemigk-D7s45aFme1xCh4gls2NwrxRJ_7eYwVpLQ1L10grMPOtF4-NosjQ/j8ge6ntjz1fi4wr/Fundamentos+Matem%C3%A1ticos+para+a+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+Matem%C3%A1tica+Discreta+e+suas+aplica%C3%A7%C3%B5es+7+edi%C3%A7%C3%A3o.pdf)
 - [Matemática Discreta: Uma Introdução 3 Edição](https://download1321.mediafire.com/8cppusns41ig1MGcC50QMlD0FbV4Xa-Ix8kKT2-n0UQIZ3mUO_1N5RxycfnI5XX_k0X_MdvurpnjAEwc3jEHOoy9gQvHEko_8AQkEc7V_yht1v6ikYZQxJPj6tjkA-ggwKiqSoDN7IuUZvQBTK_FRcwhF_HFzPCMCZBG0IBsvfHon6HJ4A/c2sq7w1v8thu7a0/Matem%C3%A1tica+Discreta+Uma+Introdu%C3%A7%C3%A3o+3+Edi%C3%A7%C3%A3o.pdf)
 
@@ -22,5 +22,10 @@ ETAPA 1:
 \INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO COM PYTHON
 
 - [Pense em Python: Pense como um Cientista da Computação 3 Edição](https://download1514.mediafire.com/t6ayz383ew2ge_HvC6oU4IHYsu62hmiYbpBr2RT5m9B-ygqraL42GmmzmdK-b4jxA_Y_mIMrfzpiJjt5qm7TbIA6dHLdAOOaUF2ONcMTPOmGXeqHBofEB1flV70EGzgkV7sRYa4077djEavgc46kHchvu9RAu2ZXOEEvWIkYeQoiy7rFrg/48zmpayl3p4ha1d/Pense+em+Python+2+Edi%C3%A7%C3%A3o.pdf)
-- [Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ e Java 3 Edição](https://download1351.mediafire.com/8y30w8x3eqkg1gIj4l29w1nNcjVMPcW__6hJaUw8Nqwpt_xTwM6vXbTlj5vcQ95zXZVWagaJ3nq7IPkWVfMarw28JoQRv40MBjxZbDz8d5byc2E3uhJe5r2-fqBYK4eiPCkJv9SZpa2VPtweqowljHCIT5nCsDFXBuPfh71dM1nJVEoqqQ/ft1xjatzlvv00kw/Fundamentos+da+programa%C3%A7%C3%A3o+de+computadores+algoritmos%2C+Pascal%2C+CC%2B%2B+e+Java+3+Edi%C3%A7%C3%A3o.pdf)
+- [Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ e Java 3 Edição](https://download1979.mediafire.com/018tds1qkx3gWpb7k5ax6anf3eyiA-2SDz4HKmayJANgR73obujo9MyJgYgJLPUUaxpb1ndwjZcVOp4Rxz8P3W9SCRiiGzmLquCfXXrSIcJcTfug_Wv_qeB_YWpxMcH1JkLhSon1_hKh6g7xjdvzeGRQ3WoxKALfeye1BunFd6L3v0vgdg/sgolp6c8h4w42q2/Introdu%C3%A7%C3%A3o+a+Estruturas+de+Dados+com+t%C3%A9cnicas+de+programa%C3%A7%C3%A3o+em+C+2+Edi%C3%A7%C3%A3o.pdf)
 - [Introdução a Estruturas de Dados: com técnicas de programação em C](https://download1351.mediafire.com/ary41dsschsgYe3DDn0hmifwGIAZXQKDeb2lVuC7nNvG85A1wHB1m-a1bAvOg2b3ETmtrIuZiAlxW2jOYntPBQoCBSCQwyIo_FQzG_uRhBjm09Ji5NuBvl2O78YzUpYKtSsewAPUPyU5UBW7RQlpsbBDUi4CVA86QNTWp0RTqNF7CBAWyQ/ft1xjatzlvv00kw/Fundamentos+da+programa%C3%A7%C3%A3o+de+computadores+algoritmos%2C+Pascal%2C+CC%2B%2B+e+Java+3+Edi%C3%A7%C3%A3o.pdf)
+
+\GEOMETRIA ANALÍTICA
+
+- [Geometria Analítica: Um Tratamento Vetorial 3 Edição](https://download941.mediafire.com/on0f66qdkvwgxD_5S1B0sAZUZ3oNPkeXjRXsar_nQHpz_aoqpiqKdIJTt7qAriSzQ3DkjWQiI-7hXUmjR_G471mkeBMDcQUgxrdNhZWEZGZjLr05qc76RkA7BZPXokM3dPILqgv2Wt5bOcvDaHWMDcmtfWVRtiucdwzw_ZMPOGhwO7XD7A/9cdsq75u5ksmdxi/Geometria+Anal%C3%ADtica+Um+Tratamento+Vetorial+3+Edi%C3%A7%C3%A3o.pdf)
+- [Matrizes, vetores : Geometria analítica 17 Edição]([https://www.mediafire.com/file/yh0kppux14cvg85/Matrizes%252C_vetores__Geometria_%2An%2Al%25C3%25ADtica_17_Edi%25C3%25A7%25C3%25A3o.pdf/file](https://download948.mediafire.com/mcwjvyxwmyrgwhp9B1cd9yvS8bXm_wl13ng38EQ4etflcHTLP7qA5m4LISCUuyutgJXLDgKGus9OQDF4wg4tRpFJi3e7S73AbEqLPv9p_XMxBg-41GL7hCRHWNlG9_Gu2bZmD85aaXqRB6tYi9BA87inqrkd0HW9oec58NKITjNF1pu7Tw/yh0kppux14cvg85/Matrizes%2C+vetores++Geometria+anal%C3%ADtica+17+Edi%C3%A7%C3%A3o.pdf)
