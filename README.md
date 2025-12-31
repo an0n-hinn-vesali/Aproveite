@@ -10,7 +10,7 @@ ETAPA 1:
 \MATEMÁTICA DISCRETA:
 
 - Matemática Concreta: Fundamentos Para Ciência Da Computação 2 Edição 1995 > **sem link, não encontrado.**
-- [Fundamentos Matemáticos para a Ciência da Computação: Matemática Discreta e suas aplicações 7 Edição](https://download843.mediafire.com/dfewvhmx5fvgeWnrFYFmjy2PrNmEQvkZAIlekFwfMmJ66aZbwKque1XAcCN6Y1VAe49LpPLFhcTN1ypnba03osze4j9b_qUbP2RLO-wuaAJ3pCJdFAXr0HtblG7lcFV425ifK51Ecj6ALlzto9yH5OtRQGZpK8bwVcqDdhlAGtmdjVVbnA/j8ge6ntjz1fi4wr/Fundamentos+Matem%C3%A1ticos+para+a+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+Matem%C3%A1tica+Discreta+e+suas+aplica%C3%A7%C3%B5es+7+edi%C3%A7%C3%A3o.pdf)
+- [Fundamentos Matemáticos para a Ciência da Computação: Matemática Discreta e suas aplicações 2 Edição](https://download843.mediafire.com/dfewvhmx5fvgeWnrFYFmjy2PrNmEQvkZAIlekFwfMmJ66aZbwKque1XAcCN6Y1VAe49LpPLFhcTN1ypnba03osze4j9b_qUbP2RLO-wuaAJ3pCJdFAXr0HtblG7lcFV425ifK51Ecj6ALlzto9yH5OtRQGZpK8bwVcqDdhlAGtmdjVVbnA/j8ge6ntjz1fi4wr/Fundamentos+Matem%C3%A1ticos+para+a+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+Matem%C3%A1tica+Discreta+e+suas+aplica%C3%A7%C3%B5es+7+edi%C3%A7%C3%A3o.pdf)
 - [Matemática Discreta: Uma Introdução 3 Edição](https://download1321.mediafire.com/8cppusns41ig1MGcC50QMlD0FbV4Xa-Ix8kKT2-n0UQIZ3mUO_1N5RxycfnI5XX_k0X_MdvurpnjAEwc3jEHOoy9gQvHEko_8AQkEc7V_yht1v6ikYZQxJPj6tjkA-ggwKiqSoDN7IuUZvQBTK_FRcwhF_HFzPCMCZBG0IBsvfHon6HJ4A/c2sq7w1v8thu7a0/Matem%C3%A1tica+Discreta+Uma+Introdu%C3%A7%C3%A3o+3+Edi%C3%A7%C3%A3o.pdf)
 
 \LINGUAGENS DE PROGRAMAÇÃO: > **Infelizmente, nessa seção a bibliografia está em inglês.**
