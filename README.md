@@ -21,7 +21,7 @@ ETAPA 1:
 
 \INTRODUÇÃO À CIÊNCIA DA COMPUTAÇÃO COM PYTHON:
 
-- [Pense em Python: Pense como um Cientista da Computação 3 Edição](https://download1514.mediafire.com/t6ayz383ew2ge_HvC6oU4IHYsu62hmiYbpBr2RT5m9B-ygqraL42GmmzmdK-b4jxA_Y_mIMrfzpiJjt5qm7TbIA6dHLdAOOaUF2ONcMTPOmGXeqHBofEB1flV70EGzgkV7sRYa4077djEavgc46kHchvu9RAu2ZXOEEvWIkYeQoiy7rFrg/48zmpayl3p4ha1d/Pense+em+Python+2+Edi%C3%A7%C3%A3o.pdf)
+- [Pense em Python: Pense como um Cientista da Computação 3 Edição](https://download1514.mediafire.com/7aft7kt6z44g6PEjjhq2HrjHhPKL2ta_5nhIucsnEWGHJWhJ5BP_w6B1IbMiiCL-1qTNad_B73sae8g2BkmalyguUUqJ4_Drx_JMt7spr_roERjM8_BgnnpNjhmfysGRnDrpKCfZRmCSgJ6RvydiKoUsg-Ms4ECJDlQuIcqwR6f_nyRL6A/48zmpayl3p4ha1d/Pense+em+Python+2+Edi%C3%A7%C3%A3o.pdf)
 - [Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ e Java 3 Edição](https://download1979.mediafire.com/018tds1qkx3gWpb7k5ax6anf3eyiA-2SDz4HKmayJANgR73obujo9MyJgYgJLPUUaxpb1ndwjZcVOp4Rxz8P3W9SCRiiGzmLquCfXXrSIcJcTfug_Wv_qeB_YWpxMcH1JkLhSon1_hKh6g7xjdvzeGRQ3WoxKALfeye1BunFd6L3v0vgdg/sgolp6c8h4w42q2/Introdu%C3%A7%C3%A3o+a+Estruturas+de+Dados+com+t%C3%A9cnicas+de+programa%C3%A7%C3%A3o+em+C+2+Edi%C3%A7%C3%A3o.pdf)
 - [Introdução a Estruturas de Dados: com técnicas de programação em C](https://download1351.mediafire.com/ary41dsschsgYe3DDn0hmifwGIAZXQKDeb2lVuC7nNvG85A1wHB1m-a1bAvOg2b3ETmtrIuZiAlxW2jOYntPBQoCBSCQwyIo_FQzG_uRhBjm09Ji5NuBvl2O78YzUpYKtSsewAPUPyU5UBW7RQlpsbBDUi4CVA86QNTWp0RTqNF7CBAWyQ/ft1xjatzlvv00kw/Fundamentos+da+programa%C3%A7%C3%A3o+de+computadores+algoritmos%2C+Pascal%2C+CC%2B%2B+e+Java+3+Edi%C3%A7%C3%A3o.pdf)
 
